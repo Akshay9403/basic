@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+}
+h2{
+    background: blueviolet;
+}
+
+/* li{
+    color: yellow;
+}// all li element get yellow color / but i want seperate color on l1 element then take seperate class  */ 
+
+.colorred{
+    color: red;
+}
+
+.colorgreen{
+    color: yellowgreen;
+}
+
+#diff{  
+    color: brown;
+    background-color: cadetblue;
+}
+/* id ahe mhanun #use kel */
+
+.ny{
+    height: 100px;
+    width: 100px;
+}
